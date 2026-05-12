@@ -63,7 +63,8 @@ The project demonstrates practical skills in:
 
 ## Main Dashboard
 
-![Dashboard Preview](Screenshots/Overview Dashboard.png)
+<img width="2800" height="1600" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/0968959e-b911-4923-a0bc-ebe0d09bea4f" />
+
 
 ---
 
