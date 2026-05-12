@@ -1,18 +1,3 @@
-# HR-Analytics-Dashboard-Tableau
-Interactive HR Analytics Dashboard built using Tableau for workforce insights, employee analysis, attrition tracking, and HR KPI monitoring.
-
-#Topics/Tags
-tableau
-hr-analytics
-data-analysis
-data-visualization
-business-intelligence
-dashboard
-analytics
-employee-analytics
-kpi-dashboard
-hr-dashboard
-
 # HR Analytics Dashboard | Tableau Project
 
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue)
@@ -78,7 +63,7 @@ The project demonstrates practical skills in:
 
 ## Main Dashboard
 
-![Dashboard Preview](Images/dashboard-overview.png)
+![Dashboard Preview](Screenshots/Overview Dashboard.png)
 
 ---
 
@@ -93,27 +78,6 @@ The dashboard provides insights into:
 * Employee satisfaction patterns
 * Workforce performance monitoring
 * HR KPI tracking
-
----
-
-# 📂 Project Structure
-
-```text
-HR-Analytics-Dashboard-Tableau/
-│
-├── Dashboard/
-│   └── HR Dashboard Amin.twbx
-│
-├── Dataset/
-│   └── hr_dataset.csv
-│
-├── Images/
-│   ├── dashboard-overview.png
-│   ├── attrition-analysis.png
-│   └── employee-overview.png
-│
-└── README.md
-```
 
 ---
 
@@ -168,8 +132,8 @@ This dashboard helps HR teams and management to:
 
 Aspiring Data Analyst | Tableau Developer | Data Visualization Enthusiast
 
-* GitHub: YOUR_GITHUB_LINK
-* LinkedIn: YOUR_LINKEDIN_LINK
+* GitHub: [(https://github.com/1am1n)]
+* LinkedIn: [https://www.linkedin.com/in/1am1n/]
 
 ---
 
